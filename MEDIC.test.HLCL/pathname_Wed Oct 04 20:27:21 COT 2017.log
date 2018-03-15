@@ -1,0 +1,143 @@
+Log File : 2017-10-04 20:27:21.797File name pathname_Wed Oct 04 20:27:21 COT 2017.log 
+Starting test of the MEDIC diagnosis algorithm, file: name_Wed Oct 04 20:27:21 COT 2017
+
+Constraint graph in iteration 0
+
+Constraint network: 
+Total vertices: 67 vars: 30 cons: 37 Total edges: 84
+Problem variables
+F21
+F20
+F23
+F22
+F25
+F24
+F27
+F26
+F29
+F28
+Root
+F10
+F12
+F11
+F14
+F13
+F16
+F1
+F15
+F18
+F2
+F17
+F3
+F4
+F19
+F5
+F6
+F7
+F8
+F9
+Problem constraints
+C20
+C22
+C21
+C24
+C23
+C26
+C25
+C28
+C27
+C29
+C2
+C3
+C4
+C5
+C6
+C7
+C8
+C9
+C31
+C30
+C11
+C33
+C10
+C32
+C13
+C35
+C12
+C34
+C15
+C37
+C14
+C36
+C17
+C16
+C19
+C18
+adjacent nodes of variable F21: C10,  C34,  
+adjacent nodes of variable F20: C33,  C8,  C9,  
+adjacent nodes of variable F23: C10,  C29,  
+adjacent nodes of variable F22: C10,  
+adjacent nodes of variable F25: C15,  
+adjacent nodes of variable F24: C14,  
+adjacent nodes of variable F27: C17,  C32,  C35,  C36,  
+adjacent nodes of variable F26: C16,  
+adjacent nodes of variable F29: C18,  C19,  C28,  
+adjacent nodes of variable F28: C18,  C19,  C27,  
+adjacent nodes of variable Root: C2,  C23,  C24,  
+adjacent nodes of variable F10: C12,  
+adjacent nodes of variable F12: C20,  C27,  C37,  
+adjacent nodes of variable F11: C13,  C14,  C15,  C16,  C17,  C18,  C19,  C31,  C33,  
+adjacent nodes of variable F14: C21,  C22,  
+adjacent nodes of variable F13: C21,  C22,  C26,  C29,  
+adjacent nodes of variable F16: C36,  C5,  
+adjacent nodes of variable F1: C11,  C2,  C3,  
+adjacent nodes of variable F15: C26,  C4,  
+adjacent nodes of variable F18: C7,  
+adjacent nodes of variable F2: C23,  
+adjacent nodes of variable F17: C30,  C35,  C6,  
+adjacent nodes of variable F3: C24,  C32,  
+adjacent nodes of variable F4: C24,  C31,  
+adjacent nodes of variable F19: C28,  C37,  C8,  C9,  
+adjacent nodes of variable F5: C24,  C25,  C30,  
+adjacent nodes of variable F6: C25,  
+adjacent nodes of variable F7: C10,  C3,  C4,  C5,  C6,  C7,  C8,  C9,  
+adjacent nodes of variable F8: C11,  C12,  C13,  C20,  C21,  C22,  C34,  
+adjacent nodes of variable F9: C11,  
+adjacent nodes of constraint C20: F12,  F8,  
+adjacent nodes of constraint C22: F13,  F14,  F8,  
+adjacent nodes of constraint C21: F13,  F14,  F8,  
+adjacent nodes of constraint C24: F3,  F4,  F5,  Root,  
+adjacent nodes of constraint C23: F2,  Root,  
+adjacent nodes of constraint C26: F13,  F15,  
+adjacent nodes of constraint C25: F5,  F6,  
+adjacent nodes of constraint C28: F19,  F29,  
+adjacent nodes of constraint C27: F12,  F28,  
+adjacent nodes of constraint C29: F13,  F23,  
+adjacent nodes of constraint C2: F1,  Root,  
+adjacent nodes of constraint C3: F1,  F7,  
+adjacent nodes of constraint C4: F15,  F7,  
+adjacent nodes of constraint C5: F16,  F7,  
+adjacent nodes of constraint C6: F17,  F7,  
+adjacent nodes of constraint C7: F18,  F7,  
+adjacent nodes of constraint C8: F19,  F20,  F7,  
+adjacent nodes of constraint C9: F19,  F20,  F7,  
+adjacent nodes of constraint C31: F11,  F4,  
+adjacent nodes of constraint C30: F17,  F5,  
+adjacent nodes of constraint C11: F1,  F8,  F9,  
+adjacent nodes of constraint C33: F11,  F20,  
+adjacent nodes of constraint C10: F21,  F22,  F23,  F7,  
+adjacent nodes of constraint C32: F27,  F3,  
+adjacent nodes of constraint C13: F11,  F8,  
+adjacent nodes of constraint C35: F17,  F27,  
+adjacent nodes of constraint C12: F10,  F8,  
+adjacent nodes of constraint C34: F21,  F8,  
+adjacent nodes of constraint C15: F11,  F25,  
+adjacent nodes of constraint C37: F12,  F19,  
+adjacent nodes of constraint C14: F11,  F24,  
+adjacent nodes of constraint C36: F16,  F27,  
+adjacent nodes of constraint C17: F11,  F27,  
+adjacent nodes of constraint C16: F11,  F26,  
+adjacent nodes of constraint C19: F11,  F28,  F29,  
+adjacent nodes of constraint C18: F11,  F28,  F29,  
+Execution suspended, runTime error 
+java.lang.Exception: The stack is empty, this means that the problem is consistent

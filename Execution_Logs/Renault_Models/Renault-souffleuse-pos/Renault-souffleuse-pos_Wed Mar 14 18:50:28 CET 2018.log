@@ -1,0 +1,9 @@
+Log File : 2018-03-14 18:50:28.506File name /Users/Angela/Test/Tests_Medic_HLCL/Renault_Models/Logs/Renault-souffleuse-pos/Renault-souffleuse-pos_Wed Mar 14 18:50:28 CET 2018.log 
+Starting test of the MEDIC diagnosis algorithm, file: Renault-souffleuse-pos_Wed Mar 14 18:50:28 CET 2018
+The strategy of the search is X5_4
+path lenght0main loop: 0total vertices: 0size 
+Total execution: 287
+Execution termided for reaching a fixed point after 3 iterations
+Size of path at iteration No.3: 3
+X0_1 (C40_Unary_X0_1 -) - C4 -X3 (C39_Unary_X3 -) - Total vertices : 5
+

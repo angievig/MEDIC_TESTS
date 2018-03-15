@@ -1,0 +1,9 @@
+Log File : 2018-03-14 16:45:15.941File name /Users/Angela/Test/Tests_Medic_HLCL/Renault_Models/Logs/Renault-medium/Renault-medium_Wed Mar 14 16:45:15 CET 2018.log 
+Starting test of the MEDIC diagnosis algorithm, file: Renault-medium_Wed Mar 14 16:45:15 CET 2018
+The strategy of the search is X14_60
+path lenght0main loop: 0total vertices: 0size 
+Total execution: 17858
+Execution termided for reaching a fixed point after 2 iterations
+Size of path at iteration No.2: 106
+C112 -X1_1 (C177_Unary_X1_1 -) - C157 -X3_2 (C176_Unary_X3_2 -) - C153 -X6_1 () - C173 -X5_4 () - C159 -X8 () - C161 -X0_1 () - C165 -X4_6 () - C138 -X7_0 () - C145 -X5_5 () - C151 -X6_0 () - C168 -X4_4 () - C150 -X4_11 () - C140 -X3_3 (C175_Unary_X3_3 -) - C144 -X1_0 () - C1 -X0_0 () - C51 -X14_60 () - C9 -C116 -C147 -X4_0 () - C100 -C108 -X14_63 () - C52 -X14_72 () - C53 -X14_73 () - C97 -X14_84 () - C84 -C109 -X2 () - C2 -C131 -C158 -C10 -C149 -C135 -X14_68 () - C88 -X14_80 () - C89 -X14_81 () - C90 -X14_82 () - C91 -X14_83 () - C92 -X3_1 () - C107 -C170 -X14_65 () - C85 -X14_76 () - C98 -C172 -X14_67 () - C40 -X14_79 () - C41 -X14_85 () - C93 -X4_12 () - C102 -C174 -X5_3 () - C137 -X9 () - C133 -C162 -X5_3 () - C174 -X9 () - X4_9 () - C114 -X14_85 () - X4_12 () - X14_77 () - C99 -X14_78 () - C86 -X14_86 () - C94 -X4_10 () - C115 -C148 -X4_24 () - C123 -C126 -C8 -Total vertices : 109
+

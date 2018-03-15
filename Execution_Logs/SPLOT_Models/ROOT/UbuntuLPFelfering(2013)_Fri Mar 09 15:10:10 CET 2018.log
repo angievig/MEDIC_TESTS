@@ -1,0 +1,9 @@
+Log File : 2018-03-09 15:10:10.454File name /Users/Angela/Test/Tests_Medic_HLCL/SPLOT_Models/Logs/UbuntuLPFelfering(2013)_Fri Mar 09 15:10:10 CET 2018.log 
+Starting test of the MEDIC diagnosis algorithm, file: UbuntuLPFelfering(2013)_Fri Mar 09 15:10:10 CET 2018
+The strategy of the search is Ubuntu
+path lenght0main loop: 0total vertices: 0size 
+Total execution: 244
+Execution termided for reaching a fixed point after 3 iterations
+Size of path at iteration No.3: 6
+Ubuntu (C1_Unary_Ubuntu -) - C2 -Editor_texto () - C11 -Bash () - C5 -Total vertices : 7
+

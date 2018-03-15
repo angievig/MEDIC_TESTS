@@ -1,0 +1,9 @@
+Log File : 2018-03-14 16:42:15.882File name /Users/Angela/Test/Tests_Medic_HLCL/Renault_Models/Logs/Renault-big/Renault-big_Wed Mar 14 16:42:15 CET 2018.log 
+Starting test of the MEDIC diagnosis algorithm, file: Renault-big_Wed Mar 14 16:42:15 CET 2018
+The strategy of the search is X0_0
+path lenght0main loop: 0total vertices: 0size 
+Total execution: 13314
+Execution termided for reaching a fixed point after 3 iterations
+Size of path at iteration No.3: 3
+X5 (C334_Unary_X5 -) - C320 -X4_49 (C333_Unary_X4_49 -) - Total vertices : 5
+

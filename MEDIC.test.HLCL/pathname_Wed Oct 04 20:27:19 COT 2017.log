@@ -1,0 +1,139 @@
+Log File : 2017-10-04 20:27:19.99File name pathname_Wed Oct 04 20:27:19 COT 2017.log 
+Starting test of the MEDIC diagnosis algorithm, file: name_Wed Oct 04 20:27:19 COT 2017
+
+Constraint graph in iteration 0
+
+Constraint network: 
+Total vertices: 36 vars: 15 cons: 21 Total edges: 43
+Problem variables
+Root
+F10
+F12
+F11
+F14
+F13
+F1
+F2
+F3
+F4
+F5
+F6
+F7
+F8
+F9
+Problem constraints
+C20
+C11
+C10
+C21
+C13
+C12
+C15
+C14
+C17
+C16
+C19
+C18
+C2
+C3
+C4
+C5
+C6
+C7
+C8
+C9
+adjacent nodes of variable Root: C10,  C11,  C12,  C13,  C14,  C15,  C2,  C7,  C9,  
+adjacent nodes of variable F10: C20,  C21,  C3,  
+adjacent nodes of variable F12: C16,  C21,  C5,  
+adjacent nodes of variable F11: C4,  
+adjacent nodes of variable F14: C8,  
+adjacent nodes of variable F13: C17,  C20,  C6,  
+adjacent nodes of variable F1: C19,  C2,  C3,  C4,  C5,  C6,  
+adjacent nodes of variable F2: C7,  C8,  
+adjacent nodes of variable F3: C17,  C9,  
+adjacent nodes of variable F4: C10,  
+adjacent nodes of variable F5: C11,  
+adjacent nodes of variable F6: C12,  C18,  
+adjacent nodes of variable F7: C13,  C18,  
+adjacent nodes of variable F8: C14,  C15,  
+adjacent nodes of variable F9: C14,  C15,  C16,  C19,  
+adjacent nodes of constraint C20: F10,  F13,  
+adjacent nodes of constraint C11: F5,  Root,  
+adjacent nodes of constraint C10: F4,  Root,  
+adjacent nodes of constraint C21: F10,  F12,  
+adjacent nodes of constraint C13: F7,  Root,  
+adjacent nodes of constraint C12: F6,  Root,  
+adjacent nodes of constraint C15: F8,  F9,  Root,  
+adjacent nodes of constraint C14: F8,  F9,  Root,  
+adjacent nodes of constraint C17: F13,  F3,  
+adjacent nodes of constraint C16: F12,  F9,  
+adjacent nodes of constraint C19: F1,  F9,  
+adjacent nodes of constraint C18: F6,  F7,  
+adjacent nodes of constraint C2: F1,  Root,  
+adjacent nodes of constraint C3: F1,  F10,  
+adjacent nodes of constraint C4: F1,  F11,  
+adjacent nodes of constraint C5: F1,  F12,  
+adjacent nodes of constraint C6: F1,  F13,  
+adjacent nodes of constraint C7: F2,  Root,  
+adjacent nodes of constraint C8: F14,  F2,  
+adjacent nodes of constraint C9: F3,  Root,  
+Size of path iteration No.1: 23
+Root C9 F3 C17 F13 C6 F1 C5 F12 C21 F10 C16 F9 C4 F11 C3 C19 C20 C7 F2 C8 F14 C2 
+Iteration 1
+
+Constraint graph in iteration 1
+
+Constraint network: 
+Total vertices: 23 vars: 10 cons: 13 Total edges: 22
+Problem variables
+F9
+Root
+F10
+F12
+F11
+F14
+F13
+F1
+F2
+F3
+Problem constraints
+C20
+C21
+C17
+C16
+C19
+C2
+C3
+C4
+C5
+C6
+C7
+C8
+C9
+adjacent nodes of variable F9: C16,  
+adjacent nodes of variable Root: C2,  C7,  C9,  
+adjacent nodes of variable F10: C21,  
+adjacent nodes of variable F12: C16,  C21,  C5,  
+adjacent nodes of variable F11: C4,  
+adjacent nodes of variable F14: C8,  
+adjacent nodes of variable F13: C17,  C20,  C6,  
+adjacent nodes of variable F1: C19,  C3,  C4,  C5,  C6,  
+adjacent nodes of variable F2: C7,  C8,  
+adjacent nodes of variable F3: C17,  C9,  
+adjacent nodes of constraint C20: F13,  
+adjacent nodes of constraint C21: F10,  F12,  
+adjacent nodes of constraint C17: F13,  F3,  
+adjacent nodes of constraint C16: F12,  F9,  
+adjacent nodes of constraint C19: F1,  
+adjacent nodes of constraint C2: Root,  
+adjacent nodes of constraint C3: F1,  
+adjacent nodes of constraint C4: F1,  F11,  
+adjacent nodes of constraint C5: F1,  F12,  
+adjacent nodes of constraint C6: F1,  F13,  
+adjacent nodes of constraint C7: F2,  Root,  
+adjacent nodes of constraint C8: F14,  F2,  
+adjacent nodes of constraint C9: F3,  Root,  
+Size of path iteration No.: 17
+C2 Root C9 F3 C17 F13 C6 F1 C5 F12 C21 F10 C16 F9 C4 F11 C3 
+Execution termined for reaching a the maximun of iterations
+Total execution: 308

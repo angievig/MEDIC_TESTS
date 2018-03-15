@@ -1,0 +1,297 @@
+Log File : 2017-10-04 20:28:16.406File name pathname_Wed Oct 04 20:28:16 COT 2017.log 
+Starting test of the MEDIC diagnosis algorithm, file: name_Wed Oct 04 20:28:16 COT 2017
+
+Constraint graph in iteration 0
+
+Constraint network: 
+Total vertices: 71 vars: 30 cons: 41 Total edges: 84
+Problem variables
+F21
+F20
+F23
+F22
+F25
+F24
+F27
+F26
+F29
+F28
+Root
+F10
+F12
+F11
+F14
+F13
+F16
+F1
+F15
+F2
+F18
+F3
+F17
+F4
+F5
+F19
+F6
+F7
+F8
+F9
+Problem constraints
+C20
+C41
+C22
+C21
+C24
+C23
+C26
+C25
+C28
+C27
+C29
+C2
+C3
+C4
+C5
+C6
+C7
+C8
+C9
+C31
+C30
+C11
+C33
+C10
+C32
+C13
+C35
+C12
+C34
+C15
+C37
+C14
+C36
+C17
+C39
+C16
+C38
+C19
+C18
+C40
+adjacent nodes of variable F21: C14,  
+adjacent nodes of variable F20: C29,  C36,  
+adjacent nodes of variable F23: C17,  
+adjacent nodes of variable F22: C15,  C16,  C30,  C35,  C39,  
+adjacent nodes of variable F25: C26,  
+adjacent nodes of variable F24: C25,  
+adjacent nodes of variable F27: C16,  C38,  
+adjacent nodes of variable F26: C12,  
+adjacent nodes of variable F29: C23,  
+adjacent nodes of variable F28: C22,  C30,  
+adjacent nodes of variable Root: C10,  C2,  C3,  C4,  C5,  C6,  C7,  C8,  C9,  
+adjacent nodes of variable F10: C10,  C28,  C29,  C37,  
+adjacent nodes of variable F12: C13,  C14,  C15,  C17,  
+adjacent nodes of variable F11: C11,  C12,  C40,  
+adjacent nodes of variable F14: C19,  
+adjacent nodes of variable F13: C18,  C31,  
+adjacent nodes of variable F16: C21,  C22,  C23,  C36,  
+adjacent nodes of variable F1: C2,  C41,  
+adjacent nodes of variable F15: C20,  C39,  
+adjacent nodes of variable F2: C3,  C34,  
+adjacent nodes of variable F18: C27,  
+adjacent nodes of variable F3: C4,  C40,  
+adjacent nodes of variable F17: C24,  C25,  C26,  C31,  
+adjacent nodes of variable F4: C5,  
+adjacent nodes of variable F5: C32,  C6,  
+adjacent nodes of variable F19: C28,  C32,  C33,  C38,  
+adjacent nodes of variable F6: C34,  C7,  
+adjacent nodes of variable F7: C8,  C9,  
+adjacent nodes of variable F8: C33,  C35,  C37,  C8,  C9,  
+adjacent nodes of variable F9: C10,  C11,  C13,  C18,  C19,  C20,  C21,  C24,  C27,  C41,  
+adjacent nodes of constraint C20: F15,  F9,  
+adjacent nodes of constraint C41: F1,  F9,  
+adjacent nodes of constraint C22: F16,  F28,  
+adjacent nodes of constraint C21: F16,  F9,  
+adjacent nodes of constraint C24: F17,  F9,  
+adjacent nodes of constraint C23: F16,  F29,  
+adjacent nodes of constraint C26: F17,  F25,  
+adjacent nodes of constraint C25: F17,  F24,  
+adjacent nodes of constraint C28: F10,  F19,  
+adjacent nodes of constraint C27: F18,  F9,  
+adjacent nodes of constraint C29: F10,  F20,  
+adjacent nodes of constraint C2: F1,  Root,  
+adjacent nodes of constraint C3: F2,  Root,  
+adjacent nodes of constraint C4: F3,  Root,  
+adjacent nodes of constraint C5: F4,  Root,  
+adjacent nodes of constraint C6: F5,  Root,  
+adjacent nodes of constraint C7: F6,  Root,  
+adjacent nodes of constraint C8: F7,  F8,  Root,  
+adjacent nodes of constraint C9: F7,  F8,  Root,  
+adjacent nodes of constraint C31: F13,  F17,  
+adjacent nodes of constraint C30: F22,  F28,  
+adjacent nodes of constraint C11: F11,  F9,  
+adjacent nodes of constraint C33: F19,  F8,  
+adjacent nodes of constraint C10: F10,  F9,  Root,  
+adjacent nodes of constraint C32: F19,  F5,  
+adjacent nodes of constraint C13: F12,  F9,  
+adjacent nodes of constraint C35: F22,  F8,  
+adjacent nodes of constraint C12: F11,  F26,  
+adjacent nodes of constraint C34: F2,  F6,  
+adjacent nodes of constraint C15: F12,  F22,  
+adjacent nodes of constraint C37: F10,  F8,  
+adjacent nodes of constraint C14: F12,  F21,  
+adjacent nodes of constraint C36: F16,  F20,  
+adjacent nodes of constraint C17: F12,  F23,  
+adjacent nodes of constraint C39: F15,  F22,  
+adjacent nodes of constraint C16: F22,  F27,  
+adjacent nodes of constraint C38: F19,  F27,  
+adjacent nodes of constraint C19: F14,  F9,  
+adjacent nodes of constraint C18: F13,  F9,  
+adjacent nodes of constraint C40: F11,  F3,  
+Size of path iteration No.1: 67
+Root C9 F8 C37 F10 C29 F20 C36 F16 C23 F29 C22 F28 C30 F22 C39 F15 C20 F9 C41 F1 C27 F18 C24 F17 C31 F13 C26 F25 C25 F24 C19 F14 C18 C13 F12 C17 F23 C14 F21 C11 F11 C40 F3 C12 F26 C16 F27 C38 F19 C32 F5 C15 C21 C28 C35 C33 F7 C8 C7 F6 C34 F2 C6 C5 F4 C4 
+Iteration 1
+
+Constraint graph in iteration 1
+
+Constraint network: 
+Total vertices: 67 vars: 30 cons: 37 Total edges: 66
+Problem variables
+F21
+F20
+F23
+F22
+F25
+F24
+F27
+F26
+F29
+F28
+Root
+F10
+F12
+F11
+F14
+F13
+F16
+F15
+F1
+F18
+F2
+F17
+F3
+F4
+F19
+F5
+F6
+F7
+F8
+F9
+Problem constraints
+C20
+C41
+C22
+C21
+C24
+C23
+C26
+C25
+C28
+C27
+C29
+C4
+C5
+C6
+C7
+C8
+C9
+C31
+C30
+C11
+C33
+C32
+C13
+C35
+C12
+C34
+C37
+C15
+C36
+C14
+C39
+C17
+C16
+C38
+C19
+C18
+C40
+adjacent nodes of variable F21: C14,  
+adjacent nodes of variable F20: C29,  C36,  
+adjacent nodes of variable F23: C17,  
+adjacent nodes of variable F22: C15,  C16,  C30,  C39,  
+adjacent nodes of variable F25: C26,  
+adjacent nodes of variable F24: C25,  
+adjacent nodes of variable F27: C16,  C38,  
+adjacent nodes of variable F26: C12,  
+adjacent nodes of variable F29: C23,  
+adjacent nodes of variable F28: C22,  C30,  
+adjacent nodes of variable Root: C4,  C5,  C6,  C7,  C8,  C9,  
+adjacent nodes of variable F10: C28,  C29,  C37,  
+adjacent nodes of variable F12: C13,  C14,  C17,  
+adjacent nodes of variable F11: C11,  C12,  C40,  
+adjacent nodes of variable F14: C19,  
+adjacent nodes of variable F13: C31,  
+adjacent nodes of variable F16: C21,  C22,  C23,  C36,  
+adjacent nodes of variable F15: C20,  C39,  
+adjacent nodes of variable F1: C41,  
+adjacent nodes of variable F18: C27,  
+adjacent nodes of variable F2: C34,  
+adjacent nodes of variable F17: C24,  C25,  C26,  C31,  
+adjacent nodes of variable F3: C40,  
+adjacent nodes of variable F4: C5,  
+adjacent nodes of variable F19: C32,  C38,  
+adjacent nodes of variable F5: C32,  
+adjacent nodes of variable F6: C34,  C7,  
+adjacent nodes of variable F7: C9,  
+adjacent nodes of variable F8: C33,  C35,  C37,  C9,  
+adjacent nodes of variable F9: C11,  C13,  C18,  C19,  C20,  C24,  C27,  C41,  
+adjacent nodes of constraint C20: F15,  F9,  
+adjacent nodes of constraint C41: F1,  F9,  
+adjacent nodes of constraint C22: F16,  F28,  
+adjacent nodes of constraint C21: F16,  
+adjacent nodes of constraint C24: F17,  F9,  
+adjacent nodes of constraint C23: F16,  F29,  
+adjacent nodes of constraint C26: F17,  F25,  
+adjacent nodes of constraint C25: F17,  F24,  
+adjacent nodes of constraint C28: F10,  
+adjacent nodes of constraint C27: F18,  F9,  
+adjacent nodes of constraint C29: F10,  F20,  
+adjacent nodes of constraint C4: Root,  
+adjacent nodes of constraint C5: F4,  Root,  
+adjacent nodes of constraint C6: Root,  
+adjacent nodes of constraint C7: F6,  Root,  
+adjacent nodes of constraint C8: Root,  
+adjacent nodes of constraint C9: F7,  F8,  Root,  
+adjacent nodes of constraint C31: F13,  F17,  
+adjacent nodes of constraint C30: F22,  F28,  
+adjacent nodes of constraint C11: F11,  F9,  
+adjacent nodes of constraint C33: F8,  
+adjacent nodes of constraint C32: F19,  F5,  
+adjacent nodes of constraint C13: F12,  F9,  
+adjacent nodes of constraint C35: F8,  
+adjacent nodes of constraint C12: F11,  F26,  
+adjacent nodes of constraint C34: F2,  F6,  
+adjacent nodes of constraint C37: F10,  F8,  
+adjacent nodes of constraint C15: F22,  
+adjacent nodes of constraint C36: F16,  F20,  
+adjacent nodes of constraint C14: F12,  F21,  
+adjacent nodes of constraint C39: F15,  F22,  
+adjacent nodes of constraint C17: F12,  F23,  
+adjacent nodes of constraint C16: F22,  F27,  
+adjacent nodes of constraint C38: F19,  F27,  
+adjacent nodes of constraint C19: F14,  F9,  
+adjacent nodes of constraint C18: F9,  
+adjacent nodes of constraint C40: F11,  F3,  
+Size of path iteration No.: 44
+C4 Root C9 F8 C37 F10 C29 F20 C36 F16 C23 F29 C22 F28 C30 F22 C39 F15 C20 F9 C41 F1 C27 F18 C24 F17 C31 F13 C26 F25 C25 F24 C19 F14 C18 C13 F12 C17 F23 C14 F21 C11 F11 C40 
+Execution termined for reaching a the maximun of iterations
+Total execution: 953

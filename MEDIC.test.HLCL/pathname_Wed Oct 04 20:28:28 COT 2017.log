@@ -1,0 +1,65 @@
+Log File : 2017-10-04 20:28:28.937File name pathname_Wed Oct 04 20:28:28 COT 2017.log 
+Starting test of the MEDIC diagnosis algorithm, file: name_Wed Oct 04 20:28:28 COT 2017
+
+Constraint graph in iteration 0
+
+Constraint network: 
+Total vertices: 12 vars: 5 cons: 7 Total edges: 13
+Problem variables
+Root
+F1
+F2
+F3
+F4
+Problem constraints
+C3
+C4
+C5
+C6
+C7
+C2
+adjacent nodes of variable Root: C2,  
+adjacent nodes of variable F1: C2,  C3,  C4,  C5,  
+adjacent nodes of variable F2: C3,  C6,  
+adjacent nodes of variable F3: C4,  C6,  C7,  
+adjacent nodes of variable F4: C5,  C7,  
+adjacent nodes of constraint C3: F1,  F2,  
+adjacent nodes of constraint C4: F1,  F3,  
+adjacent nodes of constraint C5: F1,  F4,  
+adjacent nodes of constraint C6: F2,  F3,  
+adjacent nodes of constraint C7: F3,  F4,  
+adjacent nodes of constraint C2: F1,  Root,  
+Size of path iteration No.1: 10
+Root C2 F1 C5 F4 C7 F3 C6 F2 C4 
+Iteration 1
+
+Constraint graph in iteration 1
+
+Constraint network: 
+Total vertices: 10 vars: 5 cons: 5 Total edges: 9
+Problem variables
+Root
+F1
+F2
+F3
+F4
+Problem constraints
+C4
+C5
+C6
+C7
+C2
+adjacent nodes of variable Root: C2,  
+adjacent nodes of variable F1: C2,  C4,  C5,  
+adjacent nodes of variable F2: C6,  
+adjacent nodes of variable F3: C6,  C7,  
+adjacent nodes of variable F4: C5,  C7,  
+adjacent nodes of constraint C4: F1,  
+adjacent nodes of constraint C5: F1,  F4,  
+adjacent nodes of constraint C6: F2,  F3,  
+adjacent nodes of constraint C7: F3,  F4,  
+adjacent nodes of constraint C2: F1,  Root,  
+Size of path iteration No.: 10
+C4 F1 C5 F4 C7 F3 C6 F2 C2 Root 
+Execution termined for reaching a the maximun of iterations
+Total execution: 100

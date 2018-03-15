@@ -1,0 +1,6 @@
+Log File : 2018-03-14 18:52:15.329File name /Users/Angela/Test/Tests_Medic_HLCL/Renault_Models/Logs/Renault-souffleuse-pos/Renault-souffleuse-pos_Wed Mar 14 18:52:15 CET 2018.log 
+Starting test of the MEDIC diagnosis algorithm, file: Renault-souffleuse-pos_Wed Mar 14 18:52:15 CET 2018
+The strategy of the search is X5_0
+path lenght0main loop: 0total vertices: 0size 
+Execution suspended at iteration No.1, iterations in search path 18, for a runTime error 
+java.lang.Exception: The stack is empty, this means that the problem is consistent

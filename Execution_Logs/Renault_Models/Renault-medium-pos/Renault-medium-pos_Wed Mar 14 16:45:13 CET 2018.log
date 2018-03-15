@@ -1,0 +1,9 @@
+Log File : 2018-03-14 16:45:13.235File name /Users/Angela/Test/Tests_Medic_HLCL/Renault_Models/Logs/Renault-medium-pos/Renault-medium-pos_Wed Mar 14 16:45:13 CET 2018.log 
+Starting test of the MEDIC diagnosis algorithm, file: Renault-medium-pos_Wed Mar 14 16:45:13 CET 2018
+The strategy of the search is X12_1
+path lenght0main loop: 0total vertices: 0size 
+Total execution: 2373
+Execution termided for reaching a fixed point after 2 iterations
+Size of path at iteration No.2: 35
+C117 -X7_0 (C177_Unary_X7_0 -) - C126 -X5_5 (C176_Unary_X5_5 -) - C133 -X6_0 () - C152 -X4_4 () - C132 -X4_11 () - C120 -X3_3 (C175_Unary_X3_3 -) - C125 -X1_0 () - C1 -X0_0 () - C119 -X12_1 () - C92 -C129 -X4_0 () - C76 -C84 -X15_63 () - C33 -X15_72 () - C34 -X15_73 () - C73 -X15_84 () - C50 -C85 -X2 () - C154 -C110 -Total vertices : 38
+
