@@ -67,8 +67,10 @@ public class TestCaseFile extends TestCase{
 		MinimalSetsDFSIterationsHLCL minimal=null;;
 		for (int i = 0; i < executions; i++) {
 		minimal = new MinimalSetsDFSIterationsHLCL(vmodel.getModel(), log);
+		
 		//Window ventana1= new Window(minimal.getGraph(), "initial graph");
 		pathNodes =minimal.sourceOfInconsistentConstraints(root, iterations);
+		//minimal.printNetwork(minimal.getGraph());
 		//report+= minimal.graphInfo()+ ","+ minimal.getIter()+ ","+minimal.getPathLenght()+ ","+minimal.getTotal() + ",";
 		//report+= minimal.getTime() + ", ";
 		//report+= minimal.sizePath();

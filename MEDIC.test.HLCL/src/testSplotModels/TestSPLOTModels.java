@@ -41,13 +41,12 @@ public class TestSPLOTModels {
 	
 		String path=OUT_TEST_PATH;
 		
-		TestCaseFile test = new TestCaseFile(path, name, vmod,"RAND");
+		TestCaseFile test = new TestCaseFile(path, name, vmod,root);
 		test.startTests(10, 1);
 		report +=test.getReport();
 //		VariabilityModelTransformer varMod = new VariabilityModelTransformer();
 //		System.out.println("Modelo "+ name);
-//		System.out.println();
-//		
+//		System.out.println();	
 //		varMod.printTransformedModelSWIProlog(vmod);
 		
 		numberTests++;
