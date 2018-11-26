@@ -1,0 +1,9 @@
+Log File : 2018-11-25 22:07:00.632File name /Users/Angela/Test/Tests_Medic_HLCL/SPLOT_Models/Logs/Version3_Betty25Features_FeatureModel19_Sun Nov 25 22:07:00 COT 2018.log 
+Starting test of the MEDIC diagnosis algorithm, file: Version3_Betty25Features_FeatureModel19_Sun Nov 25 22:07:00 COT 2018
+The strategy of the search is Root
+path lenght0main loop: 0total vertices: 0size 
+Total execution: 1837
+Execution termided for reaching a fixed point after 4 iterations
+Size of path at iteration No.4: 29
+Root (C1_Unary_Root -) - C3 -F2 () - C4 -F6 () - C30 -F27 () - C24 -F23 () - C20 -F11 () - C14 -F10 () - C16 -F13 () - C38 -F14 () - C8 -F9 () - C10 -F16 () - C31 -F19 () - C13 -F20 () - C41 -C29 -F3 () - C26 -Total vertices : 30
+
